@@ -13,7 +13,7 @@
 
 
 
-测试merge 操作（pick 1.2）
+测试merge 操作（pick 1.3）
 
 
 
