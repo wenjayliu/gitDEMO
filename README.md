@@ -36,6 +36,7 @@ i                  // 编辑模式
 > git diff                          // 查看文件修改（不包括增加的文件）
 > 
 > git branch                        // 查看分支
+> git config --global  --list       // 配置文件
 
 
 ### 提交操作
